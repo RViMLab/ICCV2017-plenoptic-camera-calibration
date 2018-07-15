@@ -1,5 +1,5 @@
-# plenoptic-camera-calibration
-Matlab code for plenoptic camera calibration. Check the supplementary video for an overview of the process.
+# Plenoptic Camera Calibration
+Matlab code for plenoptic camera calibration. Check the supplementary video for an overview of the process. If you use this work, please cite our paper by S. Nousias, F. Chadebecq, J. Pichat, P. Keane, S. Ourselin, and C. Bergeles, “Corner-Based Geometric Calibration of Multi-Focus Plenoptic Cameras,” Int. Conf. Computer vision, pp. 957 - 965 2017.
 
 Before running the following steps ensure that the micro-lens centers are available. If not, run LightFieldCalib_Step1_MicroLensCenter using your camera's
 white images.
